@@ -14,7 +14,7 @@ We recommend the Anaconda Python distribution: https://www.anaconda.com/distribu
 
 We use Jupyter Notebook web-application to run most of our Python codes. To start your Jupyter Notebook:
 
-[1] open a terminal window (See instructions for Windows: https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/; Linux: https://www.wikihow.com/Open-a-Terminal-Window-in-Ubuntu; and IOS: https://apple.stackexchange.com/questions/256259/how-to-open-terminal-in-mac-using-keyboard-shortcut)
+[1] open a terminal window (see instructions for Windows: https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/; Linux: https://www.wikihow.com/Open-a-Terminal-Window-in-Ubuntu; and IOS: https://apple.stackexchange.com/questions/256259/how-to-open-terminal-in-mac-using-keyboard-shortcut)
 
 [2] type: jupyter notebook (and hit enter key).
 
