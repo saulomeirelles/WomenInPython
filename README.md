@@ -1,5 +1,5 @@
 # WomenInPythonShenzhen
-#### Welcome to the Women in Python Shenzhen! 
+#### Welcome to the Women in Python
 
 Who we are:
 
