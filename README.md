@@ -89,3 +89,6 @@ We use Jupyter Notebook web-application to run most of our Python codes. To star
 [3] Type: jupyter notebook (and hit enter key).
 
 You should now be able to run the Notebooks available in this repository (ipynb file extension).
+
+### How to download a single notebook file?
+<img src="https://github.com/akshayvernekar/giftest/blob/master/ht2.gif">
