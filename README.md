@@ -1,4 +1,4 @@
-# WomenInPythonShenzhen
+# WomenInPython
 #### Welcome to the Women in Python
 
 Who we are:
