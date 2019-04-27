@@ -63,7 +63,6 @@ Women In Python旨在改善技术中的性别平等。我们觉得我们可以�
 
 Who:
 
-Who: 
 Saulo - Teaching/developing open source course 
 saulomeirelles@gmail.com
 
