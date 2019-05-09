@@ -1,5 +1,7 @@
 ## Welcome to Women in Python
 
+Homepage: https://saulomeirelles.github.io/WomenInPythonShenzhen/
+
 ### New here?
 
 Please make sure to have Python3 installed in your computer prior to the class.
