@@ -1,7 +1,7 @@
 # Women In Python (Shenzhen, China)
-### Welcome to the Women in Python community
+## Welcome to the Women in Python community
 
-#### Who we are:
+### Who we are:
 
 The Women in Python Shenzhen was created by Linda Luo who has been in the tech industry for more than 10 years fighting for gender equality. Linda’s goal is to promote the inclusion of women in STEM through Python, which is currently the world's most popular programming language. Dr. Saulo Meirelles joined the project just after its creation in February 2019, as he is not only a Python enthusiast, but he also advocates for gender equality in academia. 
 
@@ -17,7 +17,7 @@ The project has no financial support. The weekly events are held at Trouble Make
 
 该项目没有财政支持。每周活动在Trouble Maker（troublemaker.site）举行，为课程赞助场地。 Linda负责项目的管理和推广，而Saulo负责课程和教学。其他志愿者以不同的方式做出贡献，以便社区精神在我们中间变得更加强大。
 
-#### Pain point:
+### Pain point:
 
 According to UNESCO, the underrepresentation of women in science, technology, engineering and mathematics (STEM) education puts a detrimental brake on progress towards sustainable development. Science, technology and innovation are key to sustainable development, for example: in how we address the impact of climate change, in how we increase food security, improve healthcare, manage limited freshwater resources and protect our biodiversity. Girls and women are of paramount importance in crafting solutions to improve lives and generate inclusive green growth that benefits all. They are the greatest untapped population to become the next generation of STEM professionals – we must invest in their talent.
 
@@ -44,7 +44,7 @@ The growth of STEM jobs in the future is expected to skyrocket. However, there's
 
 
 
-#### Why/Goal:
+### Why/Goal:
 
 Python is the easiest coding language for beginners, and there are lots of libraries you can use. lot s of the robotics projects are using Python. Specifically, eight of the top 10 CS departments (80%), and 27 of the top 39 (69%), teach Python in introductory CS0 or CS1 courses. Python can be used in development of all types of technologies starting from programming a microcontroller to web development to machine learning and data science  and hence it is a great introductory tool to get into advanced topics in computer engineering .
 
@@ -61,16 +61,13 @@ We are wondering how we go about getting subsidies from the local government and
 Women In Python旨在改善技术中的性别平等。我们觉得我们可以让到更多的人在这个项目中受益，特别是技术上的少数民族（例如女性）和较不富裕的人。我们想知道我们如何获得当地政府和/或公司的补贴。这将使我们能够扩大规模，从而促进妇女和其他少数群体融入科技。
 我们想知道我们如何获得当地政府和/或公司的补贴。这将使我们能够扩大规模，从而促进妇女和其他少数群体融入科技。
 
-#### Who:
+### Who:
 
-**Linda** - operation/marketing 
-linda@roboticsmasters.com
-
-**Saulo** - Oceanographer/Teacher/open source enthusiast 
-saulomeirelles@gmail.com
-
-**Akshay** - Software Engineer/open source enthusiast 
-akshay24vernekar@gmail.com
+| **Linda**  | operation/marketing                           | linda@roboticsmasters.com  |
+|------------|-----------------------------------------------|----------------------------|
+| **Saulo**  | oceanographer/educator/open source enthusiast | saulomeirelles@gmail.com   |
+|------------|-----------------------------------------------|----------------------------|
+| **Akshay** | software Engineer/open source enthusiast      | akshay24vernekar@gmail.com |
 
 
 
