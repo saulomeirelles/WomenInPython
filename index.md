@@ -64,7 +64,9 @@ Women In Python旨在改善技术中的性别平等。我们觉得我们可以�
 ### Who:
 
 | **Linda**  | operation/marketing                           | linda@roboticsmasters.com  |
+|------------|-----------------------------------------------|----------------------------|
 | **Saulo**  | oceanographer/educator/open source enthusiast | saulomeirelles@gmail.com   |
+|------------|-----------------------------------------------|----------------------------|
 | **Akshay** | software Engineer/open source enthusiast      | akshay24vernekar@gmail.com |
 
 
