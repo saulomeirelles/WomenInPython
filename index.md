@@ -1,4 +1,4 @@
-# WomenInPython
+# Women In Python
 #### Welcome to the Women in Python
 
 Who we are:
