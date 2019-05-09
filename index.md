@@ -69,6 +69,6 @@ Women In Python旨在改善技术中的性别平等。我们觉得我们可以�
 
 
 
-![alt text](https://github.com/saulomeirelles/WomenInPythonShenzhen/blob/master/WomenInPython.jpg "More details here:")
+![Women in Python](https://github.com/saulomeirelles/WomenInPythonShenzhen/blob/master/WomenInPython.jpg "More details here:")
 
 
