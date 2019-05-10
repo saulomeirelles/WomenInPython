@@ -1,6 +1,6 @@
 ## Welcome to Women in Python
 
-Homepage: https://saulomeirelles.github.io/WomenInPythonShenzhen/
+Homepage: https://saulomeirelles.github.io/WomenInPython/
 
 ### New here?
 
