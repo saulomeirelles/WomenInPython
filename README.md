@@ -1,10 +1,6 @@
-# WomenInPythonShenzhen
-#### Welcome to the Women in Python Shenzhen! 
+## Welcome to Women in Python
 
-The Women Meetup for Python group initiated this project together
-with Trouble Maker Shenzhen (https://troublemaker.site/) aiming at encouraging women to code.
-
-Here you find the material used in our weekly meetings. If you are in Shenzhen, feel free to drop by and have some fun learning Python. You just need to bring your computer.
+Homepage: https://saulomeirelles.github.io/WomenInPython/
 
 ### New here?
 
@@ -21,3 +17,6 @@ We use Jupyter Notebook web-application to run most of our Python codes. To star
 [3] Type: jupyter notebook (and hit enter key).
 
 You should now be able to run the Notebooks available in this repository (ipynb file extension).
+
+### How to download a single notebook file?
+<img src="https://github.com/akshayvernekar/giftest/blob/master/ht2.gif">
