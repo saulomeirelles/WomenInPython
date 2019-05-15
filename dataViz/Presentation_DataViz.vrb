@@ -1,7 +1,0 @@
-\frametitle{Hands on!}
-
-        \begin{lstlisting}[language= Python, frame = single, title={Packages to install}]
-        conda install -c conda-forge matplotlib
-        conda install -c plotly plotly
-        \end{lstlisting}
-
