@@ -31,8 +31,3 @@
     - write a program which substitutes text into them, e.g. "bye" becomes "bye"
     - do this by accepting "text-before" and "text-after" from command line
 
-9:
-    - write a program which list all files in a directory and prints:
-        - file name
-        - file size
-        - file type (file or directory)
