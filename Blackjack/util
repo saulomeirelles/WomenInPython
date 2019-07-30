@@ -1,0 +1,67 @@
+def DisplayCard(cards, return_string=True):
+    # we will use this to prints the appropriate icons for each card
+    suits_name = ['\u2660','\u2666','\u2665','\u2663']
+    suits_symbols = ['♠', '♦', '♥', '♣']
+
+    cards.sort(key=lambda x: x.points)
+    # create an empty list of list, each sublist is a line
+    lines = [[] for i in range(9)]
+    total = 0
+    for index, card in enumerate(reversed(cards)):
+        rank = card.rank
+        if rank == '10':    
+            space = ""
+        else:
+            space  = " "   
+
+        if total < 11 and card.rank=='A':
+            total += card.getCardValue()+10
+        else:
+            total += card.getCardValue()
+        
+        suit = suits_name.index(card.suit)
+        suit = suits_symbols[suit]
+
+        # add the individual card on a line by line basis
+        lines[0].append('┌─────────┐')
+        lines[1].append('│{}{}       │'.format(rank, space))  # use two {} one for char, one for space or char
+        lines[2].append('│         │')
+        lines[3].append('│         │')
+        lines[4].append('│    {}    │'.format(suit))
+        lines[5].append('│         │')
+        lines[6].append('│         │')
+        lines[7].append('│       {}{}│'.format(space, rank))
+        lines[8].append('└─────────┘')
+
+    result = []
+    for index, line in enumerate(lines):
+        result.append(''.join(lines[index]))
+
+    result.append("Total: "+ str(total))
+    # hidden cards do not use string
+    if return_string:
+        return '\n'.join(result)
+    else:
+        return result
+        
+        
+def HiddenCard(cards):
+    """
+    Essentially the dealers method of print ascii cards. This method hides the first card, shows it flipped over
+    :param cards: A list of card objects, the first will be hidden
+    :return: A string, the nice ascii version of cards
+    """
+    # a flipper over card. # This is a list of lists instead of a list of string becuase appending to a list is better then adding a string
+    lines = [['┌─────────┐'], ['│░░░░░░░░░│'], ['│░░░░░░░░░│'], ['│░░░░░░░░░│'], ['│░░░░░░░░░│'], ['│░░░░░░░░░│'], ['│░░░░░░░░░│'], ['│░░░░░░░░░│'], ['└─────────┘']]
+
+    # store the non-flipped over card after the one that is flipped over
+    cards_except_first = DisplayCard(*cards[1:], return_string=False)
+    for index, line in enumerate(cards_except_first):
+        lines[index].append(line)
+
+    # make each line into a single list
+    for index, line in enumerate(lines):
+        lines[index] = ''.join(line)
+
+    # convert the list into a single string
+    return '\n'.join(lines) 
